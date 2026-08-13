@@ -1,230 +1,347 @@
-# 👋 Hi, I'm Vishal Choudhary
+<!-- ===================== HERO SECTION ===================== -->
 
-### 🚀 AI/ML Developer | Generative AI Enthusiast | Backend Developer | DSA
+<div align="center">
 
-I'm a **B.Tech Computer Science Engineering student** passionate about building intelligent applications using **Machine Learning, Generative AI, LLMs, and Backend Technologies**.
+# 👋 Hey, I'm **Vishal Choudhary**
 
-* 🎓 Pursuing **B.Tech in Computer Science Engineering**
-* 💻 Solving **DSA problems in Java**
-* 🤖 Exploring **Machine Learning, Deep Learning & Generative AI**
-* 🧠 Building applications with **LLMs, RAG & Vector Databases**
-* ⚙️ Developing backend systems using **FastAPI, Flask, Node.js & Express.js**
-* 🔥 Interested in **AI-powered applications and production-ready software**
-* 🤝 Open to collaborating on **AI/ML, GenAI & Full-Stack projects**
-* 🏆 Solved **400+ problems on LeetCode**
-* 💬 Ask me about **Python, Java, C++, DSA, ML, RAG & Backend Development**
+### 🚀 AI/ML Developer • Generative AI Enthusiast • Backend Developer • DSA
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Applications+%F0%9F%A4%96;Exploring+Generative+AI+%26+LLMs+%F0%9F%A7%A0;Developing+RAG+Applications+%F0%9F%94%8E;Solving+DSA+Problems+in+Java+%F0%9F%92%BB;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80" />
 
-## 🧠 About Me
+<br>
 
-```text
-AI/ML              ███████████████████░░  90%
-Generative AI      █████████████████░░░░  85%
-Python             ███████████████████░░  90%
-Java + DSA         █████████████████░░░░  85%
-Backend Development████████████████░░░░░  80%
-Machine Learning   █████████████████░░░░  85%
-Web Development    ███████████████░░░░░░  75%
-```
+<img src="https://komarev.com/ghpvc/?username=NULLPOINTERCODER&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ===================== ABOUT ===================== -->
 
-### 👨‍💻 Programming Languages
+## 🧑‍💻 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<table>
+<tr>
+<td width="55%">
+
+### 👋 Hello!
+
+I'm **Vishal Choudhary**, a Computer Science Engineering student passionate about building **intelligent and scalable applications**.
+
+🔭 Currently pursuing **B.Tech in CSE**
+
+🌱 Currently studying **DSA in Java**
+
+🤖 Exploring **AI, Machine Learning & Generative AI**
+
+🧠 Building applications using **LLMs, RAG & Vector Databases**
+
+⚙️ Interested in **Backend & Full-Stack Development**
+
+🤝 Looking to collaborate on **AI-based projects**
+
+🏆 Solved **400+ problems on LeetCode**
+
+💬 Ask me about **C, C++, Python, Java, DSA, ML & GenAI**
+
+</td>
+
+<td width="45%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NULLPOINTERCODER&theme=tokyo-night&hide_border=true&area=true" />
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 My Tech Universe
+
+<div align="center">
+
+### 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript" />
+
+<br><br>
 
 ### 🤖 AI / Machine Learning
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 
-**Machine Learning:**
-Classification • Regression • Clustering • Feature Engineering • Model Evaluation • Hyperparameter Tuning • Ensemble Learning • NLP
+<br>
 
-### 🧠 Generative AI / LLM
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 
-![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+<br><br>
 
-**GenAI:**
-LLMs • RAG • Prompt Engineering • Embeddings • Vector Search • Semantic Search • Document Q&A • AI Agents
+### 🧠 Generative AI
 
-**Vector Databases:**
-FAISS • ChromaDB • Qdrant • Weaviate
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-### ⚙️ Backend Development
+<br>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+<img src="https://img.shields.io/badge/FAISS-Vector%20Search-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-Vector%20Database-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qdrant-Vector%20Database-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-Semantic%20Search-purple?style=for-the-badge"/>
 
-**Backend Concepts:**
-REST APIs • JWT Authentication • API Integration • File Upload • Middleware • Dependency Injection • Async Programming
+<br><br>
 
-### 🌐 Web Development
+### ⚙️ Backend & Web
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express,react,nextjs,html,css" />
+
+<br><br>
 
 ### 🗄️ Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
 
-### 🔧 Tools & DevOps
+<br><br>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+### 🛠️ Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,jupyter,vscode" />
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 What I'm Currently Building
 
-### 🤖 Production-Grade Local RAG Assistant
+<div align="center">
+
+|   🧠 AI / GenAI  |    ⚡ Backend   |          💻 DSA         |
+| :--------------: | :------------: | :---------------------: |
+| LLM Applications |     FastAPI    |           Java          |
+|    RAG Systems   |    REST APIs   |        Algorithms       |
+|   Vector Search  | Authentication |     Data Structures     |
+|     AI Agents    |     Docker     | Competitive Programming |
+
+</div>
+
+---
+
+# 🔥 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🤖 Local RAG Assistant
 
 **Python • FastAPI • Streamlit • ChromaDB • Ollama • Docker • RAGAS**
 
-* Built a modular **Retrieval-Augmented Generation (RAG)** system.
-* Implemented document ingestion, chunking, embeddings and semantic retrieval.
-* Used **ChromaDB** as the vector database.
-* Integrated **Ollama** for local LLM inference.
-* Exposed backend APIs using **FastAPI**.
-* Added RAG evaluation using **RAGAS**.
-* Containerized the application using **Docker**.
+A production-oriented **local RAG assistant** capable of processing documents and answering questions using retrieval-augmented generation.
+
+🔹 Modular RAG architecture
+🔹 Local LLM inference
+🔹 Vector database
+🔹 Semantic retrieval
+🔹 FastAPI backend
+🔹 RAG evaluation
+
+</td>
+
+<td width="50%">
+
+## 💳 Credit Card Fraud Detection
+
+**Python • Scikit-learn • Random Forest • SMOTE**
+
+Machine Learning system designed to detect fraudulent transactions while handling severe class imbalance.
+
+🔹 SMOTE
+🔹 Random Forest
+🔹 RandomizedSearchCV
+🔹 ROC-AUC evaluation
+🔹 Precision & Recall
+🔹 Production-ready model
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🎬 Movie Recommender System
+
+**Python • Streamlit • TMDB API • ML**
+
+Content-based recommendation system using movie metadata and similarity techniques.
+
+🔹 CountVectorizer
+🔹 Cosine Similarity
+🔹 TMDB API
+🔹 Movie metadata
+🔹 Caching
+🔹 Parallel API requests
+
+</td>
+
+<td width="50%">
+
+## 🏠 Wanderlust
+
+**Node.js • Express.js • MongoDB • EJS**
+
+Full-stack Airbnb-style accommodation platform.
+
+🔹 Authentication
+🔹 Authorization
+🔹 CRUD operations
+🔹 Image uploads
+🔹 Cloudinary
+🔹 Booking-style functionality
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 💳 Credit Card Fraud Detection
+# 🏆 Achievements
 
-**Python • Scikit-learn • Random Forest • SMOTE • Pandas • NumPy**
+<div align="center">
 
-* Built a fraud detection model using **Random Forest**.
-* Handled severe class imbalance using **SMOTE**.
-* Used **RandomizedSearchCV** for hyperparameter optimization.
-* Evaluated the model using **Precision, ROC-AUC and other classification metrics**.
-* Exported the trained model for production usage.
+<img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Smart%20India%20Hackathon-Institute%20Level-FF6B6B?style=for-the-badge"/>
 
-### 🎬 Movie Recommender System
+<img src="https://img.shields.io/badge/PU%20Code%20Hackathon-Grand%20Finale-6C63FF?style=for-the-badge"/>
 
-**Python • Machine Learning • Streamlit • TMDB API**
+<img src="https://img.shields.io/badge/Ignita%20Startup%20Fest-Top%2025-00C853?style=for-the-badge"/>
 
-* Built a **content-based movie recommendation system**.
-* Used **CountVectorizer and Cosine Similarity**.
-* Combined movie metadata including genres, keywords, cast and director.
-* Integrated **TMDB API** for movie information.
-* Added caching and parallel API requests for better performance.
+</div>
 
 ---
 
-### 🏠 Wanderlust – Airbnb Clone
+# 📚 Currently Learning
 
-**Node.js • Express.js • MongoDB • Mongoose • EJS • Passport.js • Cloudinary**
+<div align="center">
 
-* Developed a full-stack accommodation listing platform.
-* Implemented user authentication and authorization.
-* Added listing creation, editing and deletion.
-* Integrated image uploads using **Multer and Cloudinary**.
-* Implemented booking-style functionality.
+```text
+                 ┌──────────────────────┐
+                 │   🚀 CURRENT FOCUS   │
+                 └──────────┬───────────┘
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+       🧠 GenAI          💻 DSA           ⚡ Backend
+          │                 │                 │
+       LLMs              Java            FastAPI
+       RAG               Arrays          REST APIs
+       Agents            Trees           Docker
+       Embeddings        Graphs          APIs
+          │                 │                 │
+          └─────────────────┼─────────────────┘
+                            │
+                     🚀 BUILD PROJECTS
+```
 
----
-
-## 🏆 Achievements
-
-* 🧩 Solved **400+ problems on LeetCode**
-* 🚀 Qualified at institute level for **Smart India Hackathon**
-* 🏆 Selected for the **PU Code Hackathon Grand Finale**
-* 💡 Selected in **Top 25 Startup Pitch – Ignita Startup Fest**
-* 🤖 Built multiple projects in **AI/ML, GenAI and Full-Stack Development**
-
----
-
-## 📚 Currently Learning
-
-* 🧠 Advanced **DSA with Java**
-* 🤖 **LLMs & Generative AI**
-* 🔎 Advanced **RAG architectures**
-* 🗃️ **Vector Databases & Semantic Search**
-* ⚡ **FastAPI & Production Backend Development**
-* 🐳 **Docker & Deployment**
-* 🧪 **LLM Evaluation & RAG Evaluation**
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NULLPOINTERCODER&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=NULLPOINTERCODER&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NULLPOINTERCODER&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=NULLPOINTERCODER&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
----
+<img height="180" src="https://streak-stats.demolab.com?user=NULLPOINTERCODER&theme=tokyonight&hide_border=true"/>
 
-## 🏆 GitHub Trophies
+<br><br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NULLPOINTERCODER&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-</p>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NULLPOINTERCODER&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
 
 ---
 
-## 📈 Contribution Graph
+# 🏆 GitHub Trophies
 
-[![Vishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NULLPOINTERCODER\&theme=tokyo-night\&hide_border=true)](https://github.com/NULLPOINTERCODER)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NULLPOINTERCODER&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Contribution Graph
 
-<p align="left">
-<a href="https://www.linkedin.com/in/vishal-choudhary-45a931344/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NULLPOINTERCODER&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://github.com/NULLPOINTERCODER">
+<img src="https://img.shields.io/badge/GitHub-NULLPOINTERCODER-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-400%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vishal-choudhary-45a931344/">
+<img src="https://img.shields.io/badge/LinkedIn-Vishal%20Choudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:vishalchoudhary21052005@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-vishalchoudhary21052005-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/NULLPOINTERCODER">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-NULLPOINTERCODER-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-### 💭 Developer Mindset
+<div align="center">
 
-> **"Build. Break. Learn. Improve. Repeat."**
+### 💡 *"Build. Break. Learn. Improve. Repeat."*
 
-⭐ If you find my projects useful, consider giving them a star!
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=NULLPOINTERCODER\&color=blueviolet\&style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80"/>
+
+<br><br>
+
+⭐ **If you like my work, consider giving my repositories a star!**
+
+</div>
+
+<!-- Proudly crafted by Vishal Choudhary -->
